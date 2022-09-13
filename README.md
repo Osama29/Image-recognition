@@ -77,3 +77,4 @@ pooling, it calculates the average value within the receptive field and send to 
 output array; and (3) Sum pooling, it sums all the elements from the rectified feature
 map and send to the output array. Figure 3 is the example of max pooling.
 
+
